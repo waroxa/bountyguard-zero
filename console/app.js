@@ -4,7 +4,7 @@ const demoReport = {
   schema: "bountyguard.report.v1",
   status: "payout_detected",
   checked_at: "2026-08-02T23:10:00Z",
-  address_display: "7y9K2b…WNCsS",
+  address_display: "7y9K2b…5WNCsS",
   message: "Simulated replay: one verified finalized payout event detected.",
   balances: { SOL: "0", USDC: "500", USDG: "0" },
   events: [{
@@ -14,7 +14,7 @@ const demoReport = {
     payouts: [{ asset: "USDC", amount: "500", mint: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v" }],
     unverified_assets: []
   }],
-  receipt: "sha256:4fd8a35d22c93e6f8470fbe90b68e6a1f66c1f5b78935748d24af16ad4d0f7d2"
+  receipt: "sha256:32a17d0b8f4347bbace2539a68fe354a99d8ced7cf9123a9faf48ca91e973183"
 };
 
 let liveReport;
