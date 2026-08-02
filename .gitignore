@@ -6,4 +6,4 @@ vendor/
 .coverage
 console/data/report.json
 console/data/state.json
-data/
+/data/
