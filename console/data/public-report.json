@@ -1,0 +1,14 @@
+{
+  "address_display": "7y9K2b…WNCsS",
+  "balances": {
+    "SOL": "0",
+    "USDC": "0",
+    "USDG": "0"
+  },
+  "checked_at": "2026-08-02T23:19:20Z",
+  "events": [],
+  "message": "No new finalized payout was detected.",
+  "receipt": "sha256:b547f77cf6c8b6a535c6073993775cc2a4fd9a88d9fb1fde237c2efc72367f47",
+  "schema": "bountyguard.report.v1",
+  "status": "no_change"
+}

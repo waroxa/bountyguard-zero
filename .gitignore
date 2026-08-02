@@ -1,0 +1,9 @@
+runtime/
+vendor/
+*.local.json
+**/__pycache__/
+*.pyc
+.coverage
+console/data/report.json
+console/data/state.json
+data/

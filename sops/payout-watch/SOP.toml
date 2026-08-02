@@ -1,0 +1,10 @@
+[sop]
+name = "payout-watch"
+description = "Verify finalized Solana bounty payouts and pause before declaring earnings"
+version = "0.1.0"
+max_concurrent = 1
+admission_policy = "coalesce"
+
+[[triggers]]
+type = "manual"
+

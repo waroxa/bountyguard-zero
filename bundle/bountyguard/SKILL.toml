@@ -1,0 +1,13 @@
+[skill]
+name = "bountyguard"
+description = "Verify finalized Solana bounty payouts without wallet custody"
+version = "0.1.0"
+author = "Maria Carrasco"
+tags = ["solana", "payouts", "security", "monitoring"]
+
+[[tools]]
+name = "scan_finalized_payouts"
+description = "Scan the configured Solana address for new finalized SOL, USDC, or USDG receipts and return a tamper-evident report"
+kind = "shell"
+command = "python3 bountyguard.py --config bountyguard.local.json --state data/bountyguard-state.json --report data/bountyguard-report.json --format text"
+timeout_secs = 45

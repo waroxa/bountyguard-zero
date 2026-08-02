@@ -1,0 +1,18 @@
+{
+  "rpc_url": "https://api.mainnet-beta.solana.com",
+  "watched_address": "11111111111111111111111111111111",
+  "commitment": "finalized",
+  "signature_limit": 20,
+  "minimum_sol": 0.000001,
+  "verified_mints": {
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH": {
+      "symbol": "USDG",
+      "decimals": 6
+    }
+  }
+}
+
