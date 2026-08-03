@@ -11,6 +11,8 @@ signing key.
 
 **Live operator console:** https://waroxa.github.io/bountyguard-zero/
 
+**Two-minute demo:** [`docs/bountyguard-zero-demo.mp4`](docs/bountyguard-zero-demo.mp4)
+
 The first authenticated ZeroClaw execution is preserved as a redacted,
 reproducible receipt in [`docs/AUTHENTICATED-RUN.md`](docs/AUTHENTICATED-RUN.md).
 
