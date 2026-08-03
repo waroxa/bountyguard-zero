@@ -9,6 +9,11 @@ signing key.
 
 ![BountyGuard Zero live evidence console](docs/bountyguard-live.png)
 
+**Live operator console:** https://waroxa.github.io/bountyguard-zero/
+
+The first authenticated ZeroClaw execution is preserved as a redacted,
+reproducible receipt in [`docs/AUTHENTICATED-RUN.md`](docs/AUTHENTICATED-RUN.md).
+
 ## Why this belongs inside ZeroClaw
 
 The scanner is useful on its own; ZeroClaw turns it into a supervised operating

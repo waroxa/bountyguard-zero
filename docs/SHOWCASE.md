@@ -75,8 +75,8 @@ watched address, and keeps that local file out of Git.
 
 ## Links
 
-- GitHub: `https://github.com/waroxa/bountyguard-zero` (publish pending)
-- Live console: `https://waroxa.github.io/bountyguard-zero/console/` (publish pending)
-- Demo video: pending final authenticated run
+- GitHub: `https://github.com/waroxa/bountyguard-zero`
+- Live console: `https://waroxa.github.io/bountyguard-zero/`
+- Authenticated run: `docs/AUTHENTICATED-RUN.md`
+- Demo video: pending final screen recording
 - Prompt-injection boundary test: `docs/PROMPT-INJECTION-TEST.md`
-
